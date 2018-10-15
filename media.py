@@ -1,5 +1,6 @@
 import webbrowser
 
+
 class Movie():
     """A basic class which contains a constructor for a movie,
     and a function to show a movie trailer. """
